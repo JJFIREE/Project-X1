@@ -1,9 +1,8 @@
-from django.conf.urls import url
+from django.urls import path
 from . import views
-from django.urls import path,include
 
-app_name='Chats'
+app_name = 'Chats'
 
 urlpatterns = [
-	path('all/', views.all, name="all"),	
+    path('all/', views.all, name="all"),
 ]

@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore __pycache__ folders (Python compiled files)
+__pycache__/
+
+# (Optional) Ignore local SQLite DB if you don’t want it in version control:
+db.sqlite3
