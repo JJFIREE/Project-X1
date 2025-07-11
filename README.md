@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/yashaggarwal85d/projectx1">
+  <a href="https://github.com/JJFIREE/Project-X1">
     <img src="ReadmeFiles/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     A very simple way to track issues in a project, and collaborate with your colleagues and clients
     <br />
-    <a href="https://github.com/yashaggarwal85d/projectx1"><strong>Visit »</strong></a>
+    <a href="https://github.com/JJFIREE/Project-X1"><strong>Visit »</strong></a>
     <br />
     <br />
   </p>
@@ -185,10 +185,10 @@ Full control over a project group, as a admin you control who you want in your g
 
 ## Contact
 
-Yash Aggarwal
+Jai Aggarwal
 
-- LinkedIn - [yashaggarwal85d](https://www.linkedin.com/in/yashaggarwal85d/)
-- Github - [yashaggarwal85d](https://github.com/yashaggarwal85d)
+- LinkedIn - [Jai Aggarwal](https://www.linkedin.com/in/jai-agg01/)
+- Github - [Jai Aggarwal](https://github.com/JJFIREE)
 
 <!-- ACKNOWLEDGEMENTS -->
 
