@@ -6,6 +6,8 @@ venv/
 
 # Ignore __pycache__ folders (Python compiled files)
 __pycache__/
+*.pyc
+
 
 # (Optional) Ignore local SQLite DB if you don’t want it in version control:
 db.sqlite3
